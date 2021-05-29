@@ -1,6 +1,6 @@
 
 Exemplo de um marcador de aglomeração
-
+```typescript
 {
     "id": string,
     "latitude": number,
@@ -9,9 +9,10 @@ Exemplo de um marcador de aglomeração
     "title": string,
     "description": string
 }
+```
 
 Exemplo de uma mensagem na fila ao inserir novo marcador
-
+```typescript
 {
   "message": "NEW_MARKER",
   "report": {
@@ -23,9 +24,12 @@ Exemplo de uma mensagem na fila ao inserir novo marcador
     "description": string
   },
 } 
+```
+
 
 Exemplo de uma mensagem na fila ao deletar um marcador
 
+```typescript
 {
   "message": "DELETED_MARKER",
   "city": [
@@ -35,4 +39,5 @@ Exemplo de uma mensagem na fila ao deletar um marcador
     }
   ]
 } 
+```
     
