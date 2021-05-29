@@ -1,27 +1,28 @@
 
 Exemplo de um marcador de aglomeração
-```typescript
+```json
 {
-    "id": string,
-    "latitude": number,
-    "longitude": number,
-    "city": string,
-    "title": string,
-    "description": string
+    "id": "string",
+    "latitude": "number",
+    "longitude": "number",
+    "city": "string",
+    "title": "string",
+    "description": "string"
 }
 ```
 
+
 Exemplo de uma mensagem na fila ao inserir novo marcador
-```typescript
+```json
 {
   "message": "NEW_MARKER",
   "report": {
-    "id": string,
-    "latitude": number,
-    "longitude": number,
-    "city": string,
-    "title": string,
-    "description": string
+    "id": "string",
+    "latitude": "number",
+    "longitude": "number",
+    "city": "string",
+    "title": "string",
+    "description": "string"
   },
 } 
 ```
@@ -29,13 +30,13 @@ Exemplo de uma mensagem na fila ao inserir novo marcador
 
 Exemplo de uma mensagem na fila ao deletar um marcador
 
-```typescript
+```json
 {
   "message": "DELETED_MARKER",
   "city": [
     {
-      city: string,
-      markersId: [ string ]
+      "city": "string",
+      "markersId": [ "string" ]
     }
   ]
 } 
