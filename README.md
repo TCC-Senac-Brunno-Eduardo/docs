@@ -11,4 +11,4 @@ Repositório responsável por fornecer informações e artefatos sobre a concep�
 |[Testes Unitários](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/Testes%20Unitarios) | Todos os testes unitários realizado no sistema        |
 |[Aquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/Arquitetura)              | Fluxos, escarecimentos e diagramas de nossa estrutura |
 |[Canvas](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/Canvas)                       | Planejamento e validações de ideias                   |
-|[JSON Schema](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/JSON Schema)             | Objetos usados para comunicação entre aplicações      |
+|[JSON Schema](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/JSON%20Schema)             | Objetos usados para comunicação entre aplicações      |
