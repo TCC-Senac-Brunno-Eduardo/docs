@@ -6,7 +6,7 @@ A arquitetura do projeto foi pensada para ser escalável e reutilizável. Planej
 
 Nosso backend é divido em módulos, onde cada um possui suas próprias classes e objetos.
 
-![macro arquitetura backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/arquitetura_backend_macro.jpg)
+![macro arquitetura backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/arquitetura%20backend%20macro.jpg)
 
 ## CONTROLLER
 
