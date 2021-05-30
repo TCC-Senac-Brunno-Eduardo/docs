@@ -12,7 +12,7 @@ Nosso backend é divido em módulos, onde cada um possui suas próprias classes 
 
 Nossa camada de API possui opções HTTP para inserir novo report, buscar report por cidade, buscar todos reports e incrementar iterações like, dislike e strike
 
-![macro controller backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/controller_macro.jpg)
+![macro controller backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/controller%20macro.jpg)
 
 ## IMPLEMENTATION
 
