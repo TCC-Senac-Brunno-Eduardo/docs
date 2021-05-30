@@ -23,3 +23,9 @@ Módulo responsável por toda a lógica da regra de negócio do projeto!
 Pacote responsável por ser o Job do escopo. Aqui está implementado o nosso "agendador" para chamar a operação de delete marker de 20 em 20 minutos.
 
 ![macro impl batch backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/batch_implementation_macro.jpg)
+
+### DATABASE
+
+Pacote responsável pela comunicação com nosso banco de dados. Possui objetos únicos que não deverão ser alterados!
+
+![macro impl database backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/database%20macro.jpg)
