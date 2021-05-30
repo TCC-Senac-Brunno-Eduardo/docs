@@ -16,7 +16,13 @@ Nossa camada de API possui opções HTTP para inserir novo report, buscar report
 
 ## IMPLEMENTATION
 
-Módulo responsável por toda a lógica da regra de negócio do projeto!
+Módulo responsável por toda a lógica do projeto.
+
+![impl macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/implementation%20macro.jpg)
+
+## APP
+
+Regra de negócio do projeto.
 
 ### BATCH
 
