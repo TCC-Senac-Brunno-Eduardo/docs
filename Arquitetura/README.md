@@ -10,6 +10,7 @@
             * [DTO](#dto)
             * [Iteration](#iteration)
             * [Service](#service)
+            * [Validator](#validator)
 
 
 
@@ -74,4 +75,10 @@ Pacote responsável por conter a lógica das iterações dos report (like | disl
 
 Pacote responsável por realizar todas as ações referente a report.
 
-![macro impl service backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/service%20macro.jpg)
+![macro impl service backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/macro%20service.jpg)
+
+#### VALIDATOR <a name="validator"></a>
+
+Pacote responsável por realizar todas as validações referente a report.
+
+![macro impl validator backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/validator%20macro.jpg)
