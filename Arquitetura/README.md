@@ -7,6 +7,7 @@
             * [Batch](#batch)
             * [Database](#database)
             * [Delete](#delete)
+            * [DTO](#dto)
 
 
 
@@ -54,3 +55,9 @@ Pacote responsável pela comunicação com nosso banco de dados. Possui objetos 
 Pacote responsável pela execução do processo de remoção de reports com mais de 6 horas de sua publicação.
 
 ![macro impl delete backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/delete%20macro.jpg)
+
+#### DTO <a name="dto"></a>
+
+Pacote responsável por conter os Objetos do escopo
+
+![macro impl dto backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/dto%20macro.jpg)
