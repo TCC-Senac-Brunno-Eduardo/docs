@@ -8,6 +8,7 @@
             * [Database](#database)
             * [Delete](#delete)
             * [DTO](#dto)
+            * [Iteration](#iteration)
 
 
 
@@ -58,6 +59,12 @@ Pacote responsável pela execução do processo de remoção de reports com mais
 
 #### DTO <a name="dto"></a>
 
-Pacote responsável por conter os Objetos do escopo
+Pacote responsável por conter os Objetos do escopo.
 
 ![macro impl dto backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/dto%20macro.jpg)
+
+#### ITERATION <a name="iteration"></a>
+
+Pacote responsável por conter a lógica das iterações dos report (like | dislike | strike )
+
+![macro impl iteration backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/iteration%20macro.jpg)
