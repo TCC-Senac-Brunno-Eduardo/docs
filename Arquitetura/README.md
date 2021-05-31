@@ -9,6 +9,7 @@
             * [Delete](#delete)
             * [DTO](#dto)
             * [Iteration](#iteration)
+            * [Service](#service)
 
 
 
@@ -65,6 +66,12 @@ Pacote responsável por conter os Objetos do escopo.
 
 #### ITERATION <a name="iteration"></a>
 
-Pacote responsável por conter a lógica das iterações dos report (like | dislike | strike )
+Pacote responsável por conter a lógica das iterações dos report (like | dislike | strike ).
 
 ![macro impl iteration backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/iteration%20macro.jpg)
+
+#### SERVICE <a name="service"></a>
+
+Pacote responsável por realizar todas as ações referente a report.
+
+![macro impl service backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/service%20macro.jpg)
