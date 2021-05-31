@@ -6,6 +6,7 @@
         * [App](#app)
             * [Batch](#batch)
             * [Database](#database)
+            * [Delete](#delete)
 
 
 
@@ -44,6 +45,12 @@ Pacote responsável por ser o Job do escopo. Aqui está implementado o nosso "ag
 
 #### DATABASE <a name="database"></a>
 
-Pacote responsável pela comunicação com nosso banco de dados. Possui objetos únicos que não deverão ser alterados!
+Pacote responsável pela comunicação com nosso banco de dados. Possui objetos únicos que não deverão ser alterados.
 
 ![macro impl database backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/database%20macro.jpg)
+
+#### DELETE <a name="delete"></a>
+
+Pacote responsável pela execução do processo de remoção de reports com mais de 6 horas de sua publicação.
+
+![macro impl delete backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/delete%20macro.jpg)
