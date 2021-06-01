@@ -11,6 +11,8 @@
             * [Iteration](#iteration)
             * [Service](#service)
             * [Validator](#validator)
+    * [Common](#common)
+           
 
 
 
@@ -82,3 +84,9 @@ Pacote responsável por realizar todas as ações referente a report.
 Pacote responsável por realizar todas as validações referente a report.
 
 ![macro impl validator backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/validator%20macro.jpg)
+
+## COMMON <a name="common"></a>
+
+Módulo responsável por toda a lógica em comum entre pacotes do projeto.
+
+![common macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/common%20v1%20macro.jpg)
