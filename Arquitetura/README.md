@@ -13,6 +13,7 @@
             * [Validator](#validator)
         * [Common](#common)
         * [Mongo DB](#mongodb)
+        * [RabbitMQ](#rabbitmq)
            
 
 
@@ -96,4 +97,10 @@ Módulo responsável por toda a lógica em comum entre pacotes do projeto.
 
 Módulo responsável pela configuração do [mongoDB](https://www.mongodb.com/) do projeto.
 
-![common macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/mongo%20macro.jpg)
+![mongo macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/mongo%20macro.jpg)
+
+## RABBIT MQ <a name="rabbitmq"></a>
+
+Módulo responsável pela configuração do [RabbitMQ]https://www.rabbitmq.com/), pelo consumidor e pelo produtor de mensagens do projeto.
+
+![rabbit macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/rabbit%20macro.jpg)
