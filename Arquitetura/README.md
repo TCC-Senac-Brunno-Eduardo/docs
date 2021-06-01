@@ -12,6 +12,7 @@
             * [Service](#service)
             * [Validator](#validator)
     * [Common](#common)
+    * [Mongo DB](#mongodb)
            
 
 
@@ -90,3 +91,9 @@ Pacote responsável por realizar todas as validações referente a report.
 Módulo responsável por toda a lógica em comum entre pacotes do projeto.
 
 ![common macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/common%20v1%20macro.jpg)
+
+## MONGO DB <a name="mongodb"></a>
+
+Módulo responsável pela configuração do [mongoDB](https://www.mongodb.com/) do projeto.
+
+![common macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/mongo%20macro.jpg)
