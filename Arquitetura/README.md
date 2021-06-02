@@ -14,6 +14,8 @@
         * [Common](#common)
         * [Mongo DB](#mongodb)
         * [RabbitMQ](#rabbitmq)
+* [Client (App)](#client)
+
            
 
 
@@ -104,3 +106,9 @@ Módulo responsável pela configuração do [mongoDB](https://www.mongodb.com/) 
 Módulo responsável pela configuração do [RabbitMQ]https://www.rabbitmq.com/), pelo consumidor e pelo produtor de mensagens do projeto.
 
 ![rabbit macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/rabbit%20macro.jpg)
+
+# CLIENT <a name="client"></a>
+
+Nosso client foi desenvolvido em React Native.
+
+![client_arquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/client%20macro.jpg)
