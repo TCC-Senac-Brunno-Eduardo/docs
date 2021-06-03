@@ -1,6 +1,7 @@
 ### Índice
 * [Report](#report)
     * [New Report](#new_report)
+         * [Backend](#new_report_backend)
 
 
 
@@ -13,3 +14,9 @@ Relatar aglomerações é a principal entrega do primeiro MVP.
 O usuário poderá relatar pontos de aglomerações no nosso mapa colaborativo. Abaixo está o diagrama de sequência deste fluxo!
 
 ![sequencia new report macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Diagramas/diagrama%20sequencia%20geral.jpg)
+
+### New Report no Backend <a name="new_report_backend"></a>
+
+Na imagem, temos o fluxo detalhado de um novo relato no nosso backend.
+
+![sequencia new report macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Diagramas/new%20report%20backend.jpg)
