@@ -16,6 +16,7 @@
         * [RabbitMQ](#rabbitmq)
 * [Client (App)](#client)
 * [Gateway](#gateway)
+    * [App | RabbitMQ](#app_rabbitmq)
            
 
 
@@ -117,4 +118,10 @@ Nosso client foi desenvolvido em React Native.
 
 Nosso Gateway foi desenvolvido em [NestJS](https://nestjs.com/), rodando em [Node](https://nodejs.org/en/).
 
-![client_arquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/gateway%20macro.jpg)
+![gatewayarquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/gateway%20macro.jpg)
+
+## App | RabbitMQ <a name="app_rabbitmq"></a>
+
+No pacote App está localizado toda a lógica do nosso Gateway. Em RabbitMQ está localizado todos métodos relaconado a mensageria do nosso Gateway.
+
+![macro controller backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/gateway%20app%20rabbitmq%20macro.jpg)
