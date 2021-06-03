@@ -15,7 +15,7 @@
         * [Mongo DB](#mongodb)
         * [RabbitMQ](#rabbitmq)
 * [Client (App)](#client)
-
+* [Gateway](#gateway)
            
 
 
@@ -103,7 +103,7 @@ Módulo responsável pela configuração do [mongoDB](https://www.mongodb.com/) 
 
 ## RABBIT MQ <a name="rabbitmq"></a>
 
-Módulo responsável pela configuração do [RabbitMQ]https://www.rabbitmq.com/), pelo consumidor e pelo produtor de mensagens do projeto.
+Módulo responsável pela configuração do [RabbitMQ](https://www.rabbitmq.com/), pelo consumidor e pelo produtor de mensagens do projeto.
 
 ![rabbit macro](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/rabbit%20macro.jpg)
 
@@ -112,3 +112,9 @@ Módulo responsável pela configuração do [RabbitMQ]https://www.rabbitmq.com/)
 Nosso client foi desenvolvido em React Native.
 
 ![client_arquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/client%20macro.jpg)
+
+# GATEWAY <a name="gateway"></a>
+
+Nosso Gateway foi desenvolvido em [NestJS](https://nestjs.com/), rodando em [Node](https://nodejs.org/en/).
+
+![client_arquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/gateway%20macro.jpg)
