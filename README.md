@@ -8,8 +8,9 @@ Repositório responsável por fornecer informações e artefatos sobre a concep�
 
 | Link                                                                                               | Descrição                                              |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-|[Testes Unitários](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/Testes%20Unitarios) | Todos os testes unitários realizado no sistema         |
-|[Aquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/Arquitetura)              | Descrição e desenhos da arquitetura de nossa estrutura |
+|[Testes](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Testes%20Unitarios/README.md) | Todos os testes unitários realizado no sistema         |
+|[Aquitetura](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/README.md)    | Descrição e desenhos da arquitetura de nossa estrutura |
 |[Canvas](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/Canvas)                       | Planejamento e validações de ideias                    |
-|[JSON Schema](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/JSON%20Schema)           | Objetos usados para comunicação entre aplicações       |
-|[Diagramas](https://github.com/TCC-Senac-Brunno-Eduardo/docs/tree/master/Diagramas)                 | Fluxos e diagramas do projeto                          |
+|[JSON Schema](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/JSON%20Schema/README.md) | Objetos usados para comunicação entre aplicações       |
+|[Diagramas](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Diagramas/README.md)       | Fluxos e diagramas do projeto                          |
+|[Job](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Job/README.md)                   | Limpeza dos marcadores no sistema                      |
