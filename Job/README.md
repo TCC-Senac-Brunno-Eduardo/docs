@@ -5,10 +5,6 @@ Temos um agendador marcado para ser executado a cada 20 minutos, durante todos o
 Um  marcador que está em nosso sistema há mais de 6 horas é um **marcador apto a ser excluído**, sendo assim, realizamos a exclusão do mesmo e enviamos uma mensagem para queue, dizendo que há marcadores que foram removidos da nossa base, assim, todos os clients serão atualizados em tempo real!
 
 
-## ARQUITETURA
-
-![macro impl batch backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/batch_implementation_macro.jpg)
-
 ## CÓDIGO
 
 ### Passo a passo
@@ -115,3 +111,7 @@ public class DeleteReportService {
         }
     }
 ```
+
+## ARQUITETURA
+
+![macro impl batch backend](https://github.com/TCC-Senac-Brunno-Eduardo/docs/blob/master/Arquitetura/batch_implementation_macro.jpg)
